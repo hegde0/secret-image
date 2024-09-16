@@ -67,3 +67,6 @@ To explore and implement this image encryption and decryption algorithm, refer t
 3. **denoisework.m** - Denoises an image using a Finite Impulse Response (FIR) Blackman window filter.
 4. **encryption.m** - Encrypts and decrypts the image using DFT and bitwise XOR, ensuring two-stage security.
 
+Special thanks to @rohitbpatil , @chinmayeebl, and @VinayaShetti for their invaluable contributions to this project.
+
+
